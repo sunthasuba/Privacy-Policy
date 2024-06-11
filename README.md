@@ -20,8 +20,9 @@
     <h2>Changes to This Policy</h2>
     <p>We may update this privacy policy from time to time. Any changes will be posted on this page.</p>
     <h2>Contact Us</h2>
-    <p>If you have any questions about this privacy policy, please contact us at subangansuntharalingam8@gmail.com.</p>
+    <p>If you have any questions about this privacy policy, please contact us at <a 
+     href="mailto:subangansuntharalingam8@gmail.com">subangansuntharalingam8@gmail.com</a>.</p>
     <p>By using the Bookmark Extension, you agree to the terms outlined in this privacy policy.</p>
-    <p>S.Subangan</p>
+    <p><b>S.Subangan</b></p>
 </body>
 </html>
